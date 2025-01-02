@@ -106,7 +106,7 @@ const CreateWorkflowDialog = ({ triggerText }: { triggerText?: string }) => {
                     <FormDescription>
                       Provide a brief description of what your workflow does.
                       <br /> This is optional but can help you remember the
-                      workflow's purpose
+                      workflow&apos;s purpose
                     </FormDescription>
                     <FormMessage />
                   </FormItem>
